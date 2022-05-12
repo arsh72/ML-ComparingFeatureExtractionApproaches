@@ -1,4 +1,4 @@
-# MachineLearning-ComparingClassificatioN&FeatureExtractionApproaches
+# Machine Learning- Comparing Classification & Feature Extraction Approaches
 
 Project Objective:
 1. Application of two Feature Extraction approaches i.e., PCA & Feature Selection, and classification of the dataset using the Linear Discriminant Analysis and Support Vector Machine.
