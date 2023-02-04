@@ -12,7 +12,7 @@ The data used for the project was taken from the UCI Machine Learning Repository
 https://archive.ics.uci.edu/ml/datasets/Electrical+Grid+Stability+Simulated+Data+
 
 Methodology:
-1. A dataset of 10,000 samples was taken and split into training and testing sets in the ration 3:1.
+1. A dataset of 10,000 samples was taken and split into training and testing sets in the ratio 3:1.
 2. Initially LDA was applied to the original dataset with all the features followed by the calculation of classification error and runtime.
 3. Similarly, SVC was applied to the original dataset with all the features followed by the calculation of classification error and runtime.
 4. Four Experiments were carried out based on the two Dimensionality reduction techniques PCA and Backward Search and then the dataset was classified using LDA and SVC. Confusion matrices were determined for each step of the dimensionality reduction in all 4 experiments. Later their classification errors and training & testing runtimes were calculated and plotted, and the results compared.
